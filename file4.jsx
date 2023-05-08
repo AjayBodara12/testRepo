@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function file4() {
   return (
-    <div>file4 is long</div>
+    <div>file4</div>
   )
 }
